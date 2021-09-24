@@ -13,8 +13,9 @@ public class Aula03Exercicio {
         double salario = 5000.65;
         String dataRecebimentoSalario = "30/07/2021";
         String relatorio = "Eu " + nome + ", " + "morando no endereço " + endereco +
-                        ", confirmo que recebi o salário de " + salario + ", na data " + dataRecebimentoSalario;
+                ", confirmo que recebi o salário de " + salario + ", na data " + dataRecebimentoSalario;
 
         System.out.println(relatorio);
     }
+
 }

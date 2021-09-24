@@ -25,4 +25,5 @@ public class Aula02 {
         System.out.println("boolean: " + valorBoolean);
         System.out.println("char: " + valorChar);
     }
+
 }
