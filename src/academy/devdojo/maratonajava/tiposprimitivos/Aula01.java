@@ -4,7 +4,7 @@ package academy.devdojo.maratonajava.tiposprimitivos;
  * Convenções de variáveis
  */
 
-public class Aula02 {
+public class Aula01 {
 
     public static void main(String[] args) {
         int valorInt = 10;
