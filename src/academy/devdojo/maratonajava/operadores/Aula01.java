@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.operadores;
 
-public class Aula04 {
+public class Aula01 {
 
     public static void main(String[] args) {
         int num1 = 10;
