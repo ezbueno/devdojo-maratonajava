@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.estruturasderepeticao;
 
-public class Aula12Exercicio {
+public class Aula02Exercicio {
 
     public static void main(String[] args) {
 

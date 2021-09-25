@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.estruturasderepeticao;
 
-public class Aula13Exercicio {
+public class Aula03Exercicio {
 
     public static void main(String[] args) {
         int valorMax = 50;

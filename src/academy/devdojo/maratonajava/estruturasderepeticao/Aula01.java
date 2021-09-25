@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.estruturasderepeticao;
 
-public class Aula11 {
+public class Aula01 {
 
     public static void main(String[] args) {
         int count = 0;
