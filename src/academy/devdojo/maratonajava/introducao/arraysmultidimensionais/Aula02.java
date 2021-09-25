@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.arraysmultidimensionais;
+package academy.devdojo.maratonajava.introducao.arraysmultidimensionais;
 
 public class Aula02 {
 
