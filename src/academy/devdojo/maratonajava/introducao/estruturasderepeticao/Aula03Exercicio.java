@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.estruturasderepeticao;
+package academy.devdojo.maratonajava.introducao.estruturasderepeticao;
 
 public class Aula03Exercicio {
 
