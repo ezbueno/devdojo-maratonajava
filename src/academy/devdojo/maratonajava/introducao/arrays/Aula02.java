@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.arrays;
+package academy.devdojo.maratonajava.introducao.arrays;
 
 public class Aula02 {
 
