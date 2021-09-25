@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.estruturascondicionais;
 
-public class Aula10Exercicio {
+public class Aula06Exercicio {
 
 
     public static void main(String[] args) {

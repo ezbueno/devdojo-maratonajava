@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.estruturascondicionais;
 
-public class Aula06 {
+public class Aula02 {
 
     public static void main(String[] args) {
         int idade = 17;

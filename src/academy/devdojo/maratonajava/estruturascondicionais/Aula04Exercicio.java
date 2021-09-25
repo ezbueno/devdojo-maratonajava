@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.estruturascondicionais;
 
-public class Aula08Exercicio {
+public class Aula04Exercicio {
 
     public static void main(String[] args) {
         double salarioAnual = 70000;
