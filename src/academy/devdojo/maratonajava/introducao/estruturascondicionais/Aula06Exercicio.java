@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.estruturascondicionais;
+package academy.devdojo.maratonajava.introducao.estruturascondicionais;
 
 public class Aula06Exercicio {
 
