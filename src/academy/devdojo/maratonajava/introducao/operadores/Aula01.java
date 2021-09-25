@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.operadores;
+package academy.devdojo.maratonajava.introducao.operadores;
 
 public class Aula01 {
 
