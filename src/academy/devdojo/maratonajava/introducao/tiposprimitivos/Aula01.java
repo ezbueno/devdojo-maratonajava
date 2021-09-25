@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.tiposprimitivos;
+package academy.devdojo.maratonajava.introducao.tiposprimitivos;
 
 /**
  * Convenções de variáveis
