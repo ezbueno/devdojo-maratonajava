@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava.javacore.interfaces.dominio;
 
 public interface DataLoader {
-    int MAX_SIZE = 10;
+    int MAX_DATA_SIZE = 10;
 
     void load();
 
@@ -10,6 +10,6 @@ public interface DataLoader {
     }
 
     static void retrieveMaxDataSize() {
-        System.out.println("Dentro do retrieveMaxDataSize na interface DataLoader: MAX SIZE = " + MAX_SIZE);
+        System.out.println("Dentro do retrieveMaxDataSize na interface DataLoader: MAX SIZE = " + MAX_DATA_SIZE);
     }
 }
